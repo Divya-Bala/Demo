@@ -1,0 +1,5 @@
+             pgm
+             DCL        VAR(&NAM1) TYPE(*CHAR) LEN(10)
+             DCL        VAR(&NAM2) TYPE(*CHAR) LEN(10)
+             endpgm
+
