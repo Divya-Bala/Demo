@@ -3,5 +3,7 @@
              DCL        VAR(&NAM2) TYPE(*CHAR) LEN(10)
              DCL        VAR(&NAM3) TYPE(*CHAR) LEN(10)
              DCL        VAR(&NAM4) TYPE(*CHAR) LEN(10)
+
+             SNDPGMMSG MSG('Processing has started.') MSGTYPE(*INFO)
              endpgm
 
