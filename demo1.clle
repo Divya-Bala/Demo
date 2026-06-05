@@ -5,5 +5,6 @@
              DCL        VAR(&NAM4) TYPE(*CHAR) LEN(10)
 
              SNDPGMMSG MSG('Processing has started.') MSGTYPE(*INFO)
+             Fork change done by Divya Saran
              endpgm
 
